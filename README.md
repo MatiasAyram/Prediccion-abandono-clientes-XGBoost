@@ -43,9 +43,8 @@ pip install -r requirements.txt
 ```
 (El código fue desarrollado en un entorno virtual de Anaconda Navigator(Python 3.10) donde se instalaron las dependencias necesarias.)
 
-```markdown
 ## Instalación del dataset
-
+```markdown
 El dataset utilizado es el clásico **Telco Customer Churn Dataset**, disponible en Kaggle:
 ```markdown
 [https://www.kaggle.com/blastchar/telco-customer-churn](https://www.kaggle.com/blastchar/telco-customer-churn)
